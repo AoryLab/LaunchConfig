@@ -1,7 +1,6 @@
 {
   "ProxyGateServers": [
-    { "Name": "[RU] ASTERIOS", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
-    { "Name": "[RU] TW", "IP": "5850e9f27528efe3c3fcd227122d47eb", "Port": "4fac0c49358de80f92cb1153a1b98b92" }
+    { "Name": "[RU] ASTERIOS", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
   ],
 
   "Features": {
@@ -12,7 +11,7 @@
       "Url": [
         "3fe9f40d6b90888ae89ee60daa8a1a153de6aa74ae8fa1dffac0e38752e7796d612628cd24f6ab1e6bda7512cfacea15"
       ],
-	    "SkipUpdate": true,
+	    "SkipUpdate": false,
       "DontSkip": [
         "System",
         "DataTable"
@@ -20,21 +19,21 @@
     },
 
     "News": {
-      "Enabled": true,
+      "Enabled": false,
       "Url": [
 		"41cea1e12524da691e256ccfc129d75d236f8e7d82ea8cb3c10bfc643bd42adae741ede813282fdf12f9ceeca285903d68b3c283a0074cf9c6e1cde2bdfc93dccdfae90496027f34204870c0d283f0c32c874a9de6f7454ddf207d835dfe5649"
 	  ]
     },
 
     "Language": {
-      "Multi": true,
+      "Multi": false,
       "Default": "Russia",
       "Available": ["Russia", "English"]
     },
 
     "Buttons": {
       "Standard": {
-        "Enabled": true,
+        "Enabled": false,
         "Items": [
           {
             "Enabled": true,
@@ -72,7 +71,7 @@
       },
 
       "Social": {
-        "Enabled": true,
+        "Enabled": false,
         "Items": [
           { "Enabled": true, "Type": "YouTube", "Url": "https://none.ru" },
           { "Enabled": true, "Type": "Instagram", "Url": "https://none.ru" },
