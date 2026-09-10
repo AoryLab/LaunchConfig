@@ -17,7 +17,7 @@
         "System",
         "DataTable"
       ],
-  "DownloadThreads": 5
+  "DownloadThreads": 3
     },
 
     "News": {
