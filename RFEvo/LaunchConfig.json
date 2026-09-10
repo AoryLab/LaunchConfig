@@ -16,7 +16,8 @@
       "DontSkip": [
         "System",
         "DataTable"
-      ]
+      ],
+  "DownloadThreads": 5
     },
 
     "News": {
