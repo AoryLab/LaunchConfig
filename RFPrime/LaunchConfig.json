@@ -1,8 +1,8 @@
 {
   "ProxyGateServers": [
-    { "Name": "Gate RU", "IP": "778c4557f2c71fe0e978e15c975b2ecb", "Port": "a8905d63327bddd1ed2361c891715b24" }
-    { "Name": "Gate RU", "IP": "783103c062cdec1922dc8c1b7bb5708b", "Port": "a8905d63327bddd1ed2361c891715b24" }
-    { "Name": "Gate GE", "IP": "33ad125db64963294d29e97f89603e85", "Port": "a8905d63327bddd1ed2361c891715b24" }
+    { "Name": "Gate RU", "IP": "778c4557f2c71fe0e978e15c975b2ecb", "Port": "a8905d63327bddd1ed2361c891715b24" },
+    { "Name": "Gate RU", "IP": "783103c062cdec1922dc8c1b7bb5708b", "Port": "a8905d63327bddd1ed2361c891715b24" },
+    { "Name": "Gate GE", "IP": "33ad125db64963294d29e97f89603e85", "Port": "a8905d63327bddd1ed2361c891715b24" },
     { "Name": "Gate WA", "IP": "db924a38c59295e86511ae97661d345e", "Port": "a8905d63327bddd1ed2361c891715b24" }
   ],
 
