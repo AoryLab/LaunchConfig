@@ -1,6 +1,7 @@
 {
   "ProxyGateServers": [
-    { "Name": "[RU] ASTERIOS", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
+    { "Name": "[RU] ASTERIOS #1", "IP": "1d344dec822d7189433c46fbe9ab5683", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
+    { "Name": "[RU] ASTERIOS #2", "IP": "aec2227fb347092c501e96d4696fcd15", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
   ],
 
   "Features": {
