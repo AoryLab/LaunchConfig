@@ -1,6 +1,6 @@
 {
   "ProxyGateServers": [
-    { "Name": "TEST HGK CONNECT", "IP": "0ce19bb79a561296632f026ec496854d", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
+    { "Name": "DM War", "IP": "b0d945bc55d67f496553025fe844dbb5", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
   ],
 
   "Features": {
@@ -9,14 +9,14 @@
       "Check": true,
       "Repair": true,
       "Url": [
-        "3fe9f40d6b90888ae89ee60daa8a1a153de6aa74ae8fa1dffac0e38752e7796d612628cd24f6ab1e6bda7512cfacea15"
+        "69bc34f3c261dfac2f333779353731e675e4d8884afa397d2b3c5c00b4604748fe2b11bfd34fb7cfb2b7c5704dbb33b5"
       ],
 	    "SkipUpdate": true,
       "DontSkip": [
         "System",
         "DataTable"
       ],
-  "DownloadThreads": 5
+  "DownloadThreads": 2
     },
 
     "News": {
