@@ -1,6 +1,7 @@
 {
   "ProxyGateServers": [
-    { "Name": "DM War", "IP": "b0d945bc55d67f496553025fe844dbb5", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
+    { "Name": "DM War #1", "IP": "b0d945bc55d67f496553025fe844dbb5", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" },
+    { "Name": "DM War #2", "IP": "15d3dd9ece21c47de296f2d74be44f7b", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
   ],
 
   "Features": {
