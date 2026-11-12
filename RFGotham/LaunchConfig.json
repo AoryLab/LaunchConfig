@@ -1,6 +1,7 @@
 {
   "ProxyGateServers": [
-    { "Name": "TEST HGK CONNECT", "IP": "0ce19bb79a561296632f026ec496854d", "Port": "e5dc79cca5a29b98b8be3dc83a211e88" }
+    { "Name": "GATE RU", "IP": "6d83fc02f43d3b00fc8f23b60af19d3b", "Port": "982e22f1e87966f22372932ef4f2dff8" },
+    { "Name": "GATE HE", "IP": "486436d5b256656e8e254d743765034c", "Port": "982e22f1e87966f22372932ef4f2dff8" }
   ],
 
   "Features": {
@@ -9,7 +10,8 @@
       "Check": true,
       "Repair": true,
       "Url": [
-        "3fe9f40d6b90888ae89ee60daa8a1a153de6aa74ae8fa1dffac0e38752e7796d612628cd24f6ab1e6bda7512cfacea15"
+        "304f320a370af698bc200dc24fae759943e0b7df5795b6bfe132b81cc3f04dcb512db9664e675ec8650ef2c3f1d83298",
+        "ad168cdfb510643fb5e5010bf61ade0f26a03fe81fcd080ea7facd9d9e673ef75e5ef185835220199a2c28e67806df5d"
       ],
 	    "SkipUpdate": true,
       "DontSkip": [
