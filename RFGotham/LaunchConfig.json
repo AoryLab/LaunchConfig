@@ -10,8 +10,8 @@
       "Check": true,
       "Repair": true,
       "Url": [
-        "304f320a370af698bc200dc24fae759943e0b7df5795b6bfe132b81cc3f04dcb512db9664e675ec8650ef2c3f1d83298",
-        "ad168cdfb510643fb5e5010bf61ade0f26a03fe81fcd080ea7facd9d9e673ef75e5ef185835220199a2c28e67806df5d"
+        "304f320a370af698bc200dc24fae759943e0b7df5795b6bfe132b81cc3f04dcbf72f1339d05004e85d293dcb6c9d29a7",
+        "ad168cdfb510643fb5e5010bf61ade0f7885a374c90087e83a0065a336a20428"
       ],
 	    "SkipUpdate": true,
       "DontSkip": [
